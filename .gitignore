@@ -1,0 +1,16 @@
+# Backend
+Backend/bin/
+Backend/obj/
+Backend/*.sqlite
+Backend/*.sqlite-journal
+Backend/TaskDb.sqlite
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.angular/
+
+# Other
+.vscode/
+.vs/
+*.user
